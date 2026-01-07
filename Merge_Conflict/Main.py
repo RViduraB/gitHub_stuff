@@ -9,5 +9,5 @@ class Person:
 
 
 
-man1 = Person("Alice", 30)
+man1 = Person("Max Payne", 37)
 man1.greet()
