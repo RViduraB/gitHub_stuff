@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/24526144/README.md)
 # Git & Git Hub Essentials
 ## 🔗Introduction
 💻 Git is a "Version Controlling System" this is where we say *"you can save you work progress step by step as versions or something like phases or stages* in plain language. 
