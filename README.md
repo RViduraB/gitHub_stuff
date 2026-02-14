@@ -25,7 +25,7 @@ Imagine we are developing an **API** API can have several major components,
     ✅ Business Logic 
 are some among from them. 
 
-We can start with **Main** branch, and we can form branchs from **Main** and seperate our inndividual components at another phase where we wont mx with our code from **Main** delivery progress.  
+We can start with **Main** branch, and we can form branchs from **Main** and seperate our individual components at another phase where we wont mx with our code from **Main** delivery progress.  
 ### branches from Main branch
     🔀feature/endPoints
     🔀feature/models 
